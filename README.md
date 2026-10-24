@@ -31,5 +31,3 @@ I care deeply about **numerical precision, zero-copy memory layouts, predictable
 - 🎾 **Tennis**: Die-hard club player. You'll usually find me on Singapore's outdoor hard courts at 7:00 AM before the tropical humidity spikes. Aggressive baseliner, one-handed backhand loyalist, and custom racquet stringer (poly mains / natural gut crosses at 52/55 lbs).
 - 📈 **Market Microstructure & Macro**: Reading central bank liquidity plumbing, volatility surface papers, and DeFi protocol whitepapers over morning *kopi-o kosong*.
 - 🍜 **Local Hawker Trail**: Forever debating the best char kway teow and late-night satay stalls between Tiong Bahru and East Coast Lagoon.
-
----
