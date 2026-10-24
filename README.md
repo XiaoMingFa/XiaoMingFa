@@ -33,5 +33,3 @@ I care deeply about **numerical precision, zero-copy memory layouts, predictable
 - 🍜 **Local Hawker Trail**: Forever debating the best char kway teow and late-night satay stalls between Tiong Bahru and East Coast Lagoon.
 
 ---
-
-> *"In theory, there is no difference between theory and practice. In practice, there is—especially when the market is open and latency is measured in microseconds."*
